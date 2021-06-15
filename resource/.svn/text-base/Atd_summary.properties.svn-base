@@ -1,0 +1,16 @@
+#
+#Fri Apr 08 10:23:20 IST 2011
+D=D
+SummaryofLateEmployeeDetails=Summary of Late Employee Details
+SummaryofEmployeeAttendance=Summary of Employee Attendance
+Department=Department
+EmployeeNo=Employee No
+OutTime=Out Time
+LateTime=Late Time
+SummaryofAbsentEmployeeDetails=Summary of Absent Employee Details
+InTime=In Time
+Date=Date
+EmployeeName=Employee Name
+SummaryofWorkingHours=Summary of working Hours
+EarlyDepartureTime=Early Departure Time
+WorkedHours(H\:M)=Worked Hours(H\:M)

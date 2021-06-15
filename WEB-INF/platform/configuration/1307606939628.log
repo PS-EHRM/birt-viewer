@@ -1,0 +1,11 @@
+!SESSION 2011-06-09 13:39:00.698 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_17
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.update.configurator 4 0 2011-06-09 13:39:00.699
+!MESSAGE Could not install bundle plugins/org.eclipse.birt.report.engine.emitter.pdf_2.6.0.v20100513.jar   Bundle "org.eclipse.birt.report.engine.emitter.pdf" version "2.6.0.v20100513" has already been installed from: update@plugins/org.eclipse.birt.report.engine.emitter.pdf_2.6.0.v20100513/
+
+!ENTRY org.eclipse.update.configurator 4 0 2011-06-09 13:39:00.756
+!MESSAGE Could not install bundle plugins/org.apache.batik.pdf_1.6.0.v200806031500/   Bundle "org.apache.batik.pdf" version "1.6.0.v200806031500" has already been installed from: update@plugins/org.apache.batik.pdf_1.6.0.v200806031500.jar
